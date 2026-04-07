@@ -1,101 +1,77 @@
-<h1 align="center">👋 Hey, I'm a Builder of Digital Experiences</h1>
+<h1 align="center">🚀 Building Seamless Mobile Journeys</h1>
 
 <p align="center">
-🚀 CTO | 🎨 UI/UX Designer | 📱 Mobile App Developer  
-Building scalable systems, clean interfaces, and products people actually use.
+UI/UX Engineer • Mobile Developer • Indie Builder  
+Kotlin • Flutter • Prompt Engineering
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 Who Am I
 
-- 🏢 **Chief Technology Officer** @ Gajraj G Studio  
-- 🎨 **UI/UX Designer & Mobile Developer** @ TWUG Team  
-- 🛒 **Technical Lead** @ Discounts E-commerce  
+I’m a 22-year-old **Mobile App Developer & UI/UX Engineer** based in Kathmandu, Nepal.  
+Currently pursuing my Master’s in Software Engineering while building products that actually solve real problems.
 
-💡 I operate at the intersection of **engineering + design + business strategy**  
-⚡ Focused on building **scalable mobile apps, SaaS platforms, and AI-driven features**
+I don’t just write code—I **design, architect, and ship experiences**.
 
 ---
 
-## 🚀 Current Focus
+## ⚡ What I Do
 
-- 📱 Architecting high-performance mobile apps (Flutter + Kotlin)
-- 🧠 Exploring **Prompt Engineering & AI integrations**
-- 🧩 Designing **human-first UI/UX systems**
-- 📊 Expanding into **Data Science & Analytics**
+- 📱 Craft high-performance mobile apps using **Flutter & Kotlin**
+- 🎨 Design intuitive interfaces with **Figma + Design Systems**
+- 🧠 Integrate **AI & Prompt Engineering** into real-world products
+- 🏗 Build scalable architectures from MVP → production
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Builder Mindset
 
-### 📱 Mobile Development
+- Ship fast, iterate faster  
+- Focus on **real users, not just clean code**  
+- Balance **engineering precision + design thinking**  
+- Prefer **working products over perfect ideas**
+
+---
+
+## 🛠 Tech Arsenal
+
+### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?&logo=android)
 
-### 🌐 Backend & Systems
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
-
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?&logo=adobe-xd)
 
-### ⚙️ Tools
+### ⚙️ Backend & Tools
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
 
 ---
 
-## 📊 Impact Snapshot
+## 🚀 Experience Snapshot
 
-- 🚀 Scaled e-commerce platform to **10K+ users**
-- 📈 Improved mobile conversion by **60%**
-- 📲 Delivered apps with **5K+ installs in 3 months**
-- ⚡ Built MVPs in as fast as **8 weeks**
-
----
-
-## 🧩 Experience Highlights
-
-### 🏢 Chief Technology Officer — *Gajraj G Studio*
-- Driving **technology vision & architecture**
-- Leading cross-functional teams
-- Aligning tech strategy with business growth
-
-### 🌍 UI/UX Designer & Mobile Developer — *TWUG Team*
-- Building **accessible, high-performance apps**
-- Designing in **Figma + Material systems**
-- Integrating **AI-driven UX logic**
-
-### 🛒 Technical Lead — *Discounts E-commerce*
-- Designed **scalable REST APIs & payment systems**
-- Led mobile optimization → **+60% conversions**
-- Managed agile workflows with Jira
+- 🏢 Leading tech strategy as **CTO @ Gajraj G Studio**
+- 🌍 Building global products with **TWUG Team**
+- 🛒 Scaling e-commerce platforms serving **10K+ users**
+- 📈 Boosted mobile conversions by **60%**
+- ⚡ Delivered MVPs in **weeks, not months**
 
 ---
 
-## 🎓 Education
+## 🔭 Currently
 
-- 🎓 M.Sc. IT (Software Engineering) — London Metropolitan University  
-- 🎓 Master’s — Islington College Kathmandu  
-- 📊 IoA Membership — Data Science (Coventry University)  
-- 🎓 BSc (Hons) Computing — Coventry University  
-
----
-
-## 🧠 Certifications & Affiliations
-
-- 📊 **Institute of Analytics (IoA)**  
-  - Advanced Statistical Analysis  
-  - AI Prompting  
-  - Data Visualization (Tableau)
+- Deep diving into **Kotlin & modern Android architecture**
+- Exploring **AI + Prompt Engineering workflows**
+- Expanding my **freelance & global collaborations**
+- Learning **Data Science fundamentals**
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
@@ -104,27 +80,28 @@ Building scalable systems, clean interfaces, and products people actually use.
 
 ---
 
-## 🧩 Philosophy
+## 💡 Philosophy
 
-> “Build things that scale. Design things people feel. Ship fast, but think long-term.”
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 Open to collaborations, freelance, and product partnerships  
-- 🌍 Building globally, based in Nepal / Australia  
+> Build products people actually use.  
+> Design experiences people actually remember.
 
 ---
 
-## ⚡ Fun Zone
+## 🌏 Let’s Connect
 
-- I turn ☕ into production apps  
-- I debug faster than I explain bugs  
-- I design first, argue later  
+- 🤝 Open for freelance, collaborations, and product builds  
+- 🌍 Working globally from Nepal  
+
+---
+
+## ⚡ Indie Dev Notes
+
+- I ship ideas before overthinking them  
+- I break things… then rebuild them better  
+- I care about UX more than most devs 😌  
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider starring a repo — it helps more than you think.
+⭐ Star a repo if something here helped you — it keeps the builder energy alive.
 </p>
