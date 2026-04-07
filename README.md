@@ -9,93 +9,161 @@
 
 ---
 
+---
+
 ## 🧠 About Me
 
-I’m a 22-year-old **Mobile App Developer & UI/UX Engineer** based in Kathmandu, Nepal.  
-Currently pursuing my Master’s in Software Engineering while building scalable, user-first digital products.
+I build **mobile products that feel effortless to use and scale under pressure**.
 
-💡 I specialize in **Flutter, Kotlin, and Jetpack Compose**  
-⚡ I combine **engineering precision + design thinking + product mindset**  
-🎯 Focused on building **real-world apps that scale**
+I’m a 22-year-old **UI/UX Engineer & Mobile Developer** based in Kathmandu, Nepal, currently pursuing my Master’s in Software Engineering.
+
+Over the past 2+ years, I’ve worked across startups and production systems—shipping apps, improving conversions, and leading development from idea → deployment.
+
+> I don’t just build apps. I design systems people rely on.
 
 ---
 
-## 🚀 What I Bring
+## 🚀 What I Actually Do
 
-- 📱 2+ years building production mobile apps  
-- 📈 Proven impact: **+60% conversion improvement**  
-- 👥 Experience leading cross-functional teams  
-- ⚡ MVP delivery mindset (weeks, not months)  
-- 🧠 Strong foundation in **UI/UX + system architecture**
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Mobile Engineering
+- Flutter & Kotlin (Jetpack Compose)
+- Scalable app architecture
+- Performance optimization
+
+</td>
+<td width="50%">
+
+### 🎨 UI/UX Engineering
+- Figma + Design Systems
+- Interaction & usability focus
+- Pixel-perfect implementation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 AI Integration
+- Prompt Engineering
+- AI-powered UX flows
+- Smart automation features
+
+</td>
+<td width="50%">
+
+### 🏗 Product Thinking
+- MVP → Scale mindset
+- Business-driven decisions
+- User-first problem solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Impact (Real Numbers)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ialekhc&theme=tokyonight" height="150"/>
+</p>
+
+- 🚀 Scaled applications to **10K+ active users**  
+- 📈 Increased mobile conversion rates by **60%**  
+- 📲 Delivered apps with **5K+ installs in 3 months**  
+- ⚡ Built MVPs in **weeks, not months**
+
+---
+
+## 📱 Featured Work
+
+### 🛒 E-commerce Platform (Production)
+<p align="center">
+  <img src="https://via.placeholder.com/700x350?text=E-commerce+App+Demo" />
+</p>
+
+A scalable mobile commerce platform focused on performance and conversion.
+
+- Flutter-based architecture  
+- Payment + API integrations  
+- Optimized UX → **+60% conversions**  
+
+👉 **[View Project](#)**
+
+---
+
+### 📊 Event Forecasting System
+<p align="center">
+  <img src="https://via.placeholder.com/700x350?text=Forecast+App+Demo" />
+</p>
+
+A data-driven app designed to help event organizers predict revenue and performance.
+
+- Real-time analytics  
+- Forecast modeling  
+- Clean dashboard UX  
+
+👉 **[View Project](#)**
+
+---
+
+### 🧾 POS SaaS System (Building)
+<p align="center">
+  <img src="https://via.placeholder.com/700x350?text=POS+System+Preview" />
+</p>
+
+A modern retail system combining billing, inventory, and analytics.
+
+- Modular system design  
+- SaaS-ready architecture  
+- Multi-role access  
+
+👉 **[View Project](#)**
+
+---
+
+## 🧠 Products I’m Building
+
+- 🧾 POS SaaS → Retail ecosystem  
+- 📊 Forecast Tools → Data-driven apps  
+- 🤖 AI UX Systems → Prompt-based interactions  
+
+> I build small, validate fast, and scale what works.
 
 ---
 
 ## 🛠 Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,firebase,nodejs,mongodb,figma,git,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,firebase,nodejs,mongodb,figma,git" />
 </p>
 
 ---
 
-## 📱 Featured Projects
+## 🔭 Current Focus
 
-### 🛒 E-commerce Mobile Platform
-<p align="center">
-  <img src="https://via.placeholder.com/700x350?text=E-commerce+App+Demo+GIF" />
-</p>
-
-- Scalable Flutter app serving **10K+ users**
-- Integrated payments + REST APIs
-- Boosted conversion rate by **60%**
-- 🔗 *Add your repo link here*
+- Deep diving into **Kotlin & modern Android architecture**  
+- Building **AI-powered user experiences**  
+- Expanding into **Data Science & analytics**  
+- Growing a **global freelance network**
 
 ---
 
-### 📊 Event Revenue Forecast App
-<p align="center">
-  <img src="https://via.placeholder.com/700x350?text=Forecast+App+Demo+GIF" />
-</p>
+## 🧩 How I Think
 
-- Real-time revenue prediction system  
-- Designed for event organizers  
-- Data-driven decision support  
-- 🔗 *Add your repo link here*
+- Ship > perfect  
+- UX is not optional  
+- Clean architecture scales everything  
+- Real users > theoretical code  
 
 ---
 
-### 🧾 POS System (SaaS - In Progress)
-<p align="center">
-  <img src="https://via.placeholder.com/700x350?text=POS+System+Preview" />
-</p>
-
-- Inventory + billing + analytics  
-- Modular scalable architecture  
-- SaaS-ready product direction  
-- 🔗 *Add your repo link here*
-
----
-
-## 🧠 Products I’m Building (Indie Mode)
-
-- 🧾 **POS SaaS Platform** → Retail + analytics ecosystem  
-- 📊 **Forecasting Tools** → Decision intelligence apps  
-- 🤖 **AI UX Features** → Prompt-driven interactions  
-
-> Building small. Shipping fast. Scaling smart.
-
----
-
-## 🔭 Currently Exploring
-
-- 🧠 Advanced Kotlin & Android architecture  
-- 🤖 AI + Prompt Engineering workflows  
-- 📊 Data Science fundamentals  
-- 🌍 Freelance & global collaborations  
-
----
-
-## 🌐 Connect With Me
+## 🌐 Let’s Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/alekh-chaudhary" target="blank">
@@ -110,35 +178,8 @@ Currently pursuing my Master’s in Software Engineering while building scalable
 
 ---
 
-## 📈 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ialekhc&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ialekhc&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ialekhc&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🧩 Philosophy
-
-> Build fast. Design better. Scale smart.
-
----
-
-## ⚡ Indie Dev Notes
-
-- I ship before I overthink  
-- I care about UX more than most devs 😌  
-- I turn ideas → products → systems  
-
----
-
-<p align="center">
-⭐ Star a repo if you find something useful — it helps more than you think.
+⭐ If you find my work useful, consider starring a repo — it keeps me building.
 </p>
 
 <!-- 🔥 FOOTER -->
