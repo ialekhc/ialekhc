@@ -1,8 +1,10 @@
-<h1 align="center">👋 Hi, I'm Alekh Chaudhary</h1>
-<h3 align="center">🚀 Creating Seamless Mobile Journeys | UI/UX Engineer | Kotlin • Flutter • Prompt Engineering</h3>
+<!-- 🔥 PREMIUM HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Alekh%20Chaudhary&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Engineer%20•%20Mobile%20Developer%20•%20Indie%20Builder&descSize=18&descAlignY=55"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ialekhc&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Seamless+Mobile+Experiences;Flutter+%7C+Kotlin+%7C+AI+Integration;Design+%2B+Code+%2B+Product+Thinking;Shipping+Real+World+Apps" />
 </p>
 
 ---
@@ -10,36 +12,77 @@
 ## 🧠 About Me
 
 I’m a 22-year-old **Mobile App Developer & UI/UX Engineer** based in Kathmandu, Nepal.  
-Currently pursuing my Master’s in Software Engineering while building scalable digital products.
+Currently pursuing my Master’s in Software Engineering while building scalable, user-first digital products.
 
-💡 I specialize in **Flutter, Kotlin, and Jetpack Compose**, combining engineering precision with design thinking.  
-⚡ I focus on building **real-world apps, not just side projects**.
-
----
-
-## 🚀 What I Do
-
-- 📱 Build high-performance mobile apps (Flutter + Kotlin)
-- 🎨 Design clean, human-first interfaces (Figma + Design Systems)
-- 🧠 Integrate AI features using Prompt Engineering
-- 🏗 Architect scalable systems from MVP → production
+💡 I specialize in **Flutter, Kotlin, and Jetpack Compose**  
+⚡ I combine **engineering precision + design thinking + product mindset**  
+🎯 Focused on building **real-world apps that scale**
 
 ---
 
-## 📊 Impact
+## 🚀 What I Bring
 
-- 🚀 Scaled platforms to **10K+ users**
-- 📈 Increased conversions by **60%**
-- 📲 Delivered production apps with **5K+ installs**
-- ⚡ Built MVPs in **weeks, not months**
+- 📱 2+ years building production mobile apps  
+- 📈 Proven impact: **+60% conversion improvement**  
+- 👥 Experience leading cross-functional teams  
+- ⚡ MVP delivery mindset (weeks, not months)  
+- 🧠 Strong foundation in **UI/UX + system architecture**
 
 ---
 
-## 🛠 Core Tech Stack
+## 🛠 Core Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,kotlin,firebase,nodejs,mongodb,figma,git,androidstudio" />
 </p>
+
+---
+
+## 📱 Featured Projects
+
+### 🛒 E-commerce Mobile Platform
+<p align="center">
+  <img src="https://via.placeholder.com/700x350?text=E-commerce+App+Demo+GIF" />
+</p>
+
+- Scalable Flutter app serving **10K+ users**
+- Integrated payments + REST APIs
+- Boosted conversion rate by **60%**
+- 🔗 *Add your repo link here*
+
+---
+
+### 📊 Event Revenue Forecast App
+<p align="center">
+  <img src="https://via.placeholder.com/700x350?text=Forecast+App+Demo+GIF" />
+</p>
+
+- Real-time revenue prediction system  
+- Designed for event organizers  
+- Data-driven decision support  
+- 🔗 *Add your repo link here*
+
+---
+
+### 🧾 POS System (SaaS - In Progress)
+<p align="center">
+  <img src="https://via.placeholder.com/700x350?text=POS+System+Preview" />
+</p>
+
+- Inventory + billing + analytics  
+- Modular scalable architecture  
+- SaaS-ready product direction  
+- 🔗 *Add your repo link here*
+
+---
+
+## 🧠 Products I’m Building (Indie Mode)
+
+- 🧾 **POS SaaS Platform** → Retail + analytics ecosystem  
+- 📊 **Forecasting Tools** → Decision intelligence apps  
+- 🤖 **AI UX Features** → Prompt-driven interactions  
+
+> Building small. Shipping fast. Scaling smart.
 
 ---
 
@@ -86,14 +129,19 @@ Currently pursuing my Master’s in Software Engineering while building scalable
 
 ---
 
-## ⚡ Indie Dev Zone
+## ⚡ Indie Dev Notes
 
-- I ship ideas before overthinking them  
+- I ship before I overthink  
 - I care about UX more than most devs 😌  
-- I turn coffee ☕ into production apps  
+- I turn ideas → products → systems  
 
 ---
 
 <p align="center">
-⭐ Star a repo if you find something useful — it keeps me building.
+⭐ Star a repo if you find something useful — it helps more than you think.
+</p>
+
+<!-- 🔥 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
