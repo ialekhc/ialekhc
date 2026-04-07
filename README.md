@@ -1,107 +1,128 @@
-<h1 align="center">Alekh Chaudhary</h1>
+<!-- 🔥 HEADER -->
 <p align="center">
-UI/UX Engineer • Mobile App Developer • Kotlin • Flutter • Prompt Engineering
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Alekh%20Chaudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Engineer%20•%20Mobile%20Developer%20•%20Indie%20Builder&descSize=18&descAlignY=55"/>
+</p>
+
+<p align="center">
+  <b>Building seamless mobile experiences with clean design and scalable systems</b>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I build **mobile products that are fast, scalable, and actually enjoyable to use**.
+<p align="center">
+I build <b>mobile products that are fast, scalable, and actually enjoyable to use</b>.<br><br>
 
-I’m a 22-year-old **UI/UX Engineer & Mobile Developer** based in Kathmandu, Nepal, currently pursuing my Master’s in Software Engineering.
+22-year-old <b>UI/UX Engineer & Mobile Developer</b> based in Kathmandu, Nepal.<br>
+Currently pursuing my Master’s in Software Engineering.<br><br>
 
-Over the past 2+ years, I’ve worked across startups and production systems—designing, developing, and shipping applications used by real users.
-
-> I focus on building things that work in the real world—not just on paper.
+I focus on <b>real-world applications</b> — not just concepts.
+</p>
 
 ---
 
 ## 🚀 What I Do
 
-- 📱 Develop high-performance mobile apps using **Flutter & Kotlin**
-- 🎨 Design intuitive, user-first interfaces with **Figma**
-- 🧠 Integrate **AI & Prompt Engineering** into real products
-- 🏗 Architect systems that scale from MVP → production
+<p align="center">
+📱 Flutter & Kotlin Development<br>
+🎨 UI/UX Design with Figma<br>
+🧠 AI & Prompt Engineering Integration<br>
+🏗 Scalable System Architecture
+</p>
 
 ---
 
 ## 📊 Impact
 
-- 🚀 Scaled platforms to **10K+ users**
-- 📈 Improved conversion rates by **60%**
-- 📲 Delivered apps with **5K+ installs in 3 months**
-- ⚡ Built MVPs in **weeks, not months**
+<p align="center">
+🚀 Scaled platforms to <b>10K+ users</b><br>
+📈 Improved conversions by <b>60%</b><br>
+📲 Delivered apps with <b>5K+ installs</b><br>
+⚡ Built MVPs in <b>weeks, not months</b>
+</p>
 
 ---
 
 ## 📱 Selected Work
 
-### 🛒 E-commerce Platform
-- Built a scalable Flutter-based commerce app  
-- Integrated payments and REST APIs  
-- Improved mobile UX leading to **+60% conversions**
+<p align="center">
+<b>🛒 E-commerce Platform</b><br>
+Scalable Flutter app with payment integration and optimized UX<br>
+<b>→ Result: +60% conversion increase</b>
+</p>
 
----
+<br>
 
-### 📊 Event Forecasting App
-- Designed a system for real-time revenue prediction  
-- Focused on clean dashboards and usability  
-- Built for decision-making, not just data display  
+<p align="center">
+<b>📊 Event Forecasting App</b><br>
+Real-time revenue prediction system with clean dashboards<br>
+Built for decision-making, not just analytics
+</p>
 
----
+<br>
 
-### 🧾 POS System (In Progress)
-- Developing a retail SaaS system  
-- Inventory, billing, and analytics in one platform  
-- Modular architecture for scalability  
+<p align="center">
+<b>🧾 POS System (In Progress)</b><br>
+Retail SaaS platform with inventory, billing, and analytics<br>
+Designed with modular, scalable architecture
+</p>
 
 ---
 
 ## 🧠 Products I’m Building
 
-- POS SaaS Platform for retail businesses  
-- Forecasting tools for data-driven decisions  
-- AI-powered UX systems using prompt logic  
+<p align="center">
+🧾 POS SaaS Platform<br>
+📊 Forecasting Tools<br>
+🤖 AI-powered UX Systems<br><br>
+
+<i>Building small. Shipping fast. Scaling smart.</i>
+</p>
 
 ---
 
 ## 🛠 Core Stack
 
-**Mobile:** Flutter, Kotlin, Jetpack Compose  
-**Backend:** Node.js, Firebase, REST APIs  
-**Database:** MongoDB  
-**Design:** Figma, Design Systems  
-**Tools:** Git, Jira  
+<p align="center">
+Flutter • Kotlin • Firebase • Node.js • MongoDB • Figma • Git
+</p>
 
 ---
 
 ## 🔭 Current Focus
 
-- Advanced **Kotlin & Android architecture**
-- **AI + Prompt Engineering workflows**
-- **Data Science fundamentals**
-- Expanding global collaborations
+<p align="center">
+Advanced Kotlin & Android architecture<br>
+AI + Prompt Engineering workflows<br>
+Data Science fundamentals<br>
+Global freelance collaborations
+</p>
 
 ---
 
 ## 🧩 How I Think
 
-- Ship fast, iterate faster  
-- UX is a requirement, not a feature  
-- Clean architecture scales everything  
-- Real users > perfect code  
+<p align="center">
+Ship fast, iterate faster<br>
+UX is not optional<br>
+Clean architecture scales everything<br>
+Real users &gt; perfect code
+</p>
 
 ---
 
 ## 🌐 Connect
 
-- LinkedIn: https://linkedin.com/in/alekh-chaudhary  
-- Instagram: https://instagram.com/i_alekhchaudhary  
-- Email: chaudharyalekh@gmail.com  
+<p align="center">
+LinkedIn: https://linkedin.com/in/alekh-chaudhary <br>
+Instagram: https://instagram.com/i_alekhchaudhary <br>
+Email: chaudharyalekh@gmail.com
+</p>
 
 ---
 
+<!-- 🔥 FOOTER -->
 <p align="center">
-Focused on building products, not just projects.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
