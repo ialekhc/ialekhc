@@ -1,107 +1,99 @@
-<h1 align="center">🚀 Building Seamless Mobile Journeys</h1>
+<h1 align="center">👋 Hi, I'm Alekh Chaudhary</h1>
+<h3 align="center">🚀 Creating Seamless Mobile Journeys | UI/UX Engineer | Kotlin • Flutter • Prompt Engineering</h3>
 
 <p align="center">
-UI/UX Engineer • Mobile Developer • Indie Builder  
-Kotlin • Flutter • Prompt Engineering
+  <img src="https://komarev.com/ghpvc/?username=ialekhc&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 Who Am I
+## 🧠 About Me
 
 I’m a 22-year-old **Mobile App Developer & UI/UX Engineer** based in Kathmandu, Nepal.  
-Currently pursuing my Master’s in Software Engineering while building products that actually solve real problems.
+Currently pursuing my Master’s in Software Engineering while building scalable digital products.
 
-I don’t just write code—I **design, architect, and ship experiences**.
-
----
-
-## ⚡ What I Do
-
-- 📱 Craft high-performance mobile apps using **Flutter & Kotlin**
-- 🎨 Design intuitive interfaces with **Figma + Design Systems**
-- 🧠 Integrate **AI & Prompt Engineering** into real-world products
-- 🏗 Build scalable architectures from MVP → production
+💡 I specialize in **Flutter, Kotlin, and Jetpack Compose**, combining engineering precision with design thinking.  
+⚡ I focus on building **real-world apps, not just side projects**.
 
 ---
 
-## 🧩 Builder Mindset
+## 🚀 What I Do
 
-- Ship fast, iterate faster  
-- Focus on **real users, not just clean code**  
-- Balance **engineering precision + design thinking**  
-- Prefer **working products over perfect ideas**
-
----
-
-## 🛠 Tech Arsenal
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?&logo=android)
-
-### 🎨 Design
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
-
-### ⚙️ Backend & Tools
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+- 📱 Build high-performance mobile apps (Flutter + Kotlin)
+- 🎨 Design clean, human-first interfaces (Figma + Design Systems)
+- 🧠 Integrate AI features using Prompt Engineering
+- 🏗 Architect scalable systems from MVP → production
 
 ---
 
-## 🚀 Experience Snapshot
+## 📊 Impact
 
-- 🏢 Leading tech strategy as **CTO @ Gajraj G Studio**
-- 🌍 Building global products with **TWUG Team**
-- 🛒 Scaling e-commerce platforms serving **10K+ users**
-- 📈 Boosted mobile conversions by **60%**
-- ⚡ Delivered MVPs in **weeks, not months**
-
----
-
-## 🔭 Currently
-
-- Deep diving into **Kotlin & modern Android architecture**
-- Exploring **AI + Prompt Engineering workflows**
-- Expanding my **freelance & global collaborations**
-- Learning **Data Science fundamentals**
+- 🚀 Scaled platforms to **10K+ users**
+- 📈 Increased conversions by **60%**
+- 📲 Delivered production apps with **5K+ installs**
+- ⚡ Built MVPs in **weeks, not months**
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Core Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,firebase,nodejs,mongodb,figma,git,androidstudio" />
 </p>
 
 ---
 
-## 💡 Philosophy
+## 🔭 Currently Exploring
 
-> Build products people actually use.  
-> Design experiences people actually remember.
-
----
-
-## 🌏 Let’s Connect
-
-- 🤝 Open for freelance, collaborations, and product builds  
-- 🌍 Working globally from Nepal  
+- 🧠 Advanced Kotlin & Android architecture  
+- 🤖 AI + Prompt Engineering workflows  
+- 📊 Data Science fundamentals  
+- 🌍 Freelance & global collaborations  
 
 ---
 
-## ⚡ Indie Dev Notes
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/alekh-chaudhary" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://instagram.com/i_alekhchaudhary" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+</p>
+
+📫 **Email:** chaudharyalekh@gmail.com  
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ialekhc&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ialekhc&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ialekhc&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Philosophy
+
+> Build fast. Design better. Scale smart.
+
+---
+
+## ⚡ Indie Dev Zone
 
 - I ship ideas before overthinking them  
-- I break things… then rebuild them better  
 - I care about UX more than most devs 😌  
+- I turn coffee ☕ into production apps  
 
 ---
 
 <p align="center">
-⭐ Star a repo if something here helped you — it keeps the builder energy alive.
+⭐ Star a repo if you find something useful — it keeps me building.
 </p>
