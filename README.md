@@ -1,128 +1,128 @@
-<!-- 🔥 HEADER -->
+<!-- 🔥 HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Alekh%20Chaudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Engineer%20•%20Mobile%20Developer%20•%20Indie%20Builder&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A132A,100:E91E63&height=260&section=header&text=Alekh%20Chaudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Engineer%20•%20UI/UX%20Specialist%20•%20Builder&descSize=18&descAlignY=55"/>
 </p>
 
 <p align="center">
-  <b>Building seamless mobile experiences with clean design and scalable systems</b>
-</p>
-
----
-
-## 🧠 About Me
-
-<p align="center">
-I build <b>mobile products that are fast, scalable, and actually enjoyable to use</b>.<br><br>
-
-22-year-old <b>UI/UX Engineer & Mobile Developer</b> based in Kathmandu, Nepal.<br>
-Currently pursuing my Master’s in Software Engineering.<br><br>
-
-I focus on <b>real-world applications</b> — not just concepts.
+  <b>Designing products that people don’t uninstall.</b><br>
+  <i>Clean UI. Scalable systems. Real-world impact.</i>
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🧠 Who Am I?
 
 <p align="center">
-📱 Flutter & Kotlin Development<br>
-🎨 UI/UX Design with Figma<br>
-🧠 AI & Prompt Engineering Integration<br>
-🏗 Scalable System Architecture
+I’m Alekh — a <b>Mobile Engineer & UI/UX Designer</b> based in Kathmandu.<br><br>
+
+I don’t just build apps — I build <b>products that solve real problems</b>.<br>
+No fluff. No overengineering. Just <b>clean, scalable execution</b>.
 </p>
 
 ---
 
-## 📊 Impact
+## ⚡ What I Actually Do
 
 <p align="center">
-🚀 Scaled platforms to <b>10K+ users</b><br>
-📈 Improved conversions by <b>60%</b><br>
-📲 Delivered apps with <b>5K+ installs</b><br>
-⚡ Built MVPs in <b>weeks, not months</b>
+📱 Build high-performance apps using <b>Flutter & Kotlin</b><br>
+🎨 Craft intuitive UI systems using <b>Figma & Design Systems</b><br>
+🧠 Integrate <b>AI + Prompt Engineering</b> into real products<br>
+🏗 Architect systems that scale beyond MVP
+</p>
+
+---
+
+## 📊 Results That Matter
+
+<p align="center">
+🚀 Platforms scaled to <b>10K+ users</b><br>
+📈 Conversion improved by <b>60%</b><br>
+📲 Apps shipped with <b>5K+ installs</b><br>
+⚡ MVP delivery in <b>weeks, not months</b>
+</p>
+
+---
+
+## 🚀 What I’m Building
+
+<p align="center">
+🧾 <b>Multi-Vendor POS SaaS</b> — retail system with real-time analytics<br>
+📊 <b>Forecasting Tools</b> — decision-focused dashboards<br>
+🤖 <b>AI UX Systems</b> — smarter user experiences<br><br>
+
+<i>Ship fast → Learn fast → Scale smart</i>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<b>Frontend:</b> Flutter, Kotlin, Jetpack Compose<br>
+<b>Backend:</b> Node.js, Firebase, REST APIs<br>
+<b>Database:</b> MongoDB, Firestore<br>
+<b>Design:</b> Figma, Design Systems<br>
+<b>Tools:</b> Git, Bitbucket, Jira
+</p>
+
+---
+
+## 🧩 Engineering Philosophy
+
+<p align="center">
+⚡ Speed is a feature<br>
+🎯 UX is non-negotiable<br>
+🏗 Architecture should scale — not break<br>
+👤 Real users matter more than perfect code
 </p>
 
 ---
 
 ## 📱 Selected Work
 
-<p align="center">
-<b>🛒 E-commerce Platform</b><br>
-Scalable Flutter app with payment integration and optimized UX<br>
-<b>→ Result: +60% conversion increase</b>
-</p>
-
-<br>
-
-<p align="center">
-<b>📊 Event Forecasting App</b><br>
-Real-time revenue prediction system with clean dashboards<br>
-Built for decision-making, not just analytics
-</p>
-
-<br>
-
-<p align="center">
-<b>🧾 POS System (In Progress)</b><br>
-Retail SaaS platform with inventory, billing, and analytics<br>
-Designed with modular, scalable architecture
-</p>
+### 🛒 E-Commerce Platform
+- Flutter-based scalable mobile app  
+- Payment integration + optimized UX  
+- **→ Result: +60% conversion boost**
 
 ---
 
-## 🧠 Products I’m Building
-
-<p align="center">
-🧾 POS SaaS Platform<br>
-📊 Forecasting Tools<br>
-🤖 AI-powered UX Systems<br><br>
-
-<i>Building small. Shipping fast. Scaling smart.</i>
-</p>
+### 📊 Event Forecasting App
+- Real-time revenue prediction  
+- Clean dashboard for decision-makers  
+- Built for usability, not complexity  
 
 ---
 
-## 🛠 Core Stack
-
-<p align="center">
-Flutter • Kotlin • Firebase • Node.js • MongoDB • Figma • Git
-</p>
+### 🧾 POS System (Ongoing)
+- Multi-tenant SaaS architecture  
+- Inventory + analytics + billing  
+- Designed for scalability from Day 1  
 
 ---
 
 ## 🔭 Current Focus
 
 <p align="center">
-Advanced Kotlin & Android architecture<br>
-AI + Prompt Engineering workflows<br>
-Data Science fundamentals<br>
-Global freelance collaborations
+📌 Advanced Android architecture (Kotlin)<br>
+📌 AI + Prompt Engineering workflows<br>
+📌 Data-driven product development<br>
+📌 Global freelance & SaaS expansion
 </p>
 
 ---
 
-## 🧩 How I Think
+## 🌐 Let’s Connect
 
 <p align="center">
-Ship fast, iterate faster<br>
-UX is not optional<br>
-Clean architecture scales everything<br>
-Real users &gt; perfect code
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
-LinkedIn: https://linkedin.com/in/alekh-chaudhary <br>
-Instagram: https://instagram.com/i_alekhchaudhary <br>
-Email: chaudharyalekh@gmail.com
+🔗 <a href="https://www.linkedin.com/in/alekh-chaudhary/">LinkedIn</a><br>
+📧 chaudharyalekh@gmail.com<br>
+📍 Kathmandu, Nepal
 </p>
 
 ---
 
 <!-- 🔥 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,100:0A132A&height=120&section=footer"/>
 </p>
