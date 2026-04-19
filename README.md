@@ -1,123 +1,137 @@
-<!-- 🔥 HERO HEADER -->
+<!-- 🔥 HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A132A,100:E91E63&height=260&section=header&text=Alekh%20Chaudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Engineer%20•%20UI/UX%20Specialist%20•%20Builder&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A132A,100:E91E63&height=260&section=header&text=Alekh%20Chaudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Engineer%20•%20UI/UX%20Designer%20•%20Builder&descSize=18&descAlignY=55"/>
 </p>
 
 <p align="center">
-  <b>Designing products that people don’t uninstall.</b><br>
-  <i>Clean UI. Scalable systems. Real-world impact.</i>
-</p>
-
----
-
-## 🧠 Who Am I?
-
-<p align="center">
-I’m Alekh — a <b>Mobile Engineer & UI/UX Designer</b> based in Kathmandu.<br><br>
-
-I don’t just build apps — I build <b>products that solve real problems</b>.<br>
-No fluff. No overengineering. Just <b>clean, scalable execution</b>.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=E91E63&center=true&vCenter=true&width=600&lines=Building+Apps+That+Actually+Scale;Designing+UX+People+Love;Shipping+Fast.+Iterating+Faster."/>
 </p>
 
 ---
 
-## ⚡ What I Actually Do
+## 🧠 About Me
 
 <p align="center">
-📱 Build high-performance apps using <b>Flutter & Kotlin</b><br>
-🎨 Craft intuitive UI systems using <b>Figma & Design Systems</b><br>
-🧠 Integrate <b>AI + Prompt Engineering</b> into real products<br>
-🏗 Architect systems that scale beyond MVP
+<img src="https://img.shields.io/badge/Location-Kathmandu-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Age-22-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Mobile%20%2B%20UX%20%2B%20AI-pink?style=for-the-badge"/>
+</p>
+
+<p align="center">
+💡 I build <b>real-world mobile products</b> — not just concepts.<br>
+🚀 Focused on <b>performance, UX, and scalability</b><br>
+🎯 Outcome-driven development mindset
 </p>
 
 ---
 
-## 📊 Results That Matter
+## 🚀 What I Do (Visual)
 
 <p align="center">
-🚀 Platforms scaled to <b>10K+ users</b><br>
-📈 Conversion improved by <b>60%</b><br>
-📲 Apps shipped with <b>5K+ installs</b><br>
-⚡ MVP delivery in <b>weeks, not months</b>
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,firebase,nodejs,mongodb,figma,git"/>
+</p>
+
+<p align="center">
+📱 Mobile Apps • 🎨 UI/UX • 🧠 AI Systems • 🏗 Architecture
 </p>
 
 ---
 
-## 🚀 What I’m Building
+## 📊 Impact Snapshot
 
 <p align="center">
-🧾 <b>Multi-Vendor POS SaaS</b> — retail system with real-time analytics<br>
-📊 <b>Forecasting Tools</b> — decision-focused dashboards<br>
-🤖 <b>AI UX Systems</b> — smarter user experiences<br><br>
-
-<i>Ship fast → Learn fast → Scale smart</i>
+<img src="https://img.shields.io/badge/Users-10K+-0A132A?style=for-the-badge&logo=appstore"/>
+<img src="https://img.shields.io/badge/Conversion-+60%25-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Installs-5K+-0A132A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVP-Speed-Weeks-E91E63?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 📱 Featured Work
+
+### 🛒 E-Commerce App
+<p align="center">
+<img src="https://user-images.githubusercontent.com/placeholder/ecommerce.gif" width="80%"/>
+</p>
 
 <p align="center">
-<b>Frontend:</b> Flutter, Kotlin, Jetpack Compose<br>
-<b>Backend:</b> Node.js, Firebase, REST APIs<br>
-<b>Database:</b> MongoDB, Firestore<br>
-<b>Design:</b> Figma, Design Systems<br>
-<b>Tools:</b> Git, Bitbucket, Jira
+✔ Payment Integration<br>
+✔ Optimized UX Flow<br>
+🔥 <b>+60% Conversion Increase</b>
 </p>
 
 ---
 
-## 🧩 Engineering Philosophy
+### 📊 Forecasting App
+<p align="center">
+<img src="https://user-images.githubusercontent.com/placeholder/dashboard.gif" width="80%"/>
+</p>
 
 <p align="center">
-⚡ Speed is a feature<br>
-🎯 UX is non-negotiable<br>
-🏗 Architecture should scale — not break<br>
-👤 Real users matter more than perfect code
+✔ Real-time Predictions<br>
+✔ Clean Data Visualization<br>
+✔ Decision-first Design
 </p>
 
 ---
 
-## 📱 Selected Work
+### 🧾 POS SaaS (In Progress)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/placeholder/pos.gif" width="80%"/>
+</p>
 
-### 🛒 E-Commerce Platform
-- Flutter-based scalable mobile app  
-- Payment integration + optimized UX  
-- **→ Result: +60% conversion boost**
-
----
-
-### 📊 Event Forecasting App
-- Real-time revenue prediction  
-- Clean dashboard for decision-makers  
-- Built for usability, not complexity  
+<p align="center">
+✔ Multi-Vendor Architecture<br>
+✔ Inventory + Analytics<br>
+✔ Scalable SaaS Model
+</p>
 
 ---
 
-### 🧾 POS System (Ongoing)
-- Multi-tenant SaaS architecture  
-- Inventory + analytics + billing  
-- Designed for scalability from Day 1  
+## 🧠 Products I'm Building
+
+<p align="center">
+<img src="https://img.shields.io/badge/POS-SaaS-0A132A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Forecasting-Tools-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-UX%20Systems-0A132A?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<i>Small bets. Fast shipping. Smart scaling.</i>
+</p>
+
+---
+
+## 🧩 Engineering Mindset
+
+<p align="center">
+<img src="https://img.shields.io/badge/⚡-Speed%20is%20a%20Feature-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎯-UX%20Matters-pink?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏗-Architecture%20Scales-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/👤-Users%20%3E%20Code-pink?style=flat-square"/>
+</p>
 
 ---
 
 ## 🔭 Current Focus
 
 <p align="center">
-📌 Advanced Android architecture (Kotlin)<br>
-📌 AI + Prompt Engineering workflows<br>
-📌 Data-driven product development<br>
-📌 Global freelance & SaaS expansion
+<img src="https://img.shields.io/badge/Kotlin-Advanced-0A132A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Prompt%20Engineering-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Science-0A132A?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect
 
 <p align="center">
-🔗 <a href="https://www.linkedin.com/in/alekh-chaudhary/">LinkedIn</a><br>
-📧 chaudharyalekh@gmail.com<br>
-📍 Kathmandu, Nepal
+<a href="https://www.linkedin.com/in/alekh-chaudhary/">
+  <img src="https://img.shields.io/badge/LinkedIn-Alekh%20Chaudhary-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/Email-chaudharyalekh@gmail.com-E91E63?style=for-the-badge"/>
 </p>
 
 ---
