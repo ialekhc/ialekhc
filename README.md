@@ -1,358 +1,469 @@
-<!-- ============================= -->
-<!--        SYSTEM BOOT            -->
-<!-- ============================= -->
+<!-- ========================= -->
+<!--        HERO AREA          -->
+<!-- ========================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:081C15,100:00FF88&height=250&section=header&text=ALEKH%20CHAUDHARY&fontSize=46&fontColor=00FF88&animation=fadeIn&fontAlignY=36&desc=Mobile%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Builder&descSize=17&descAlignY=56"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:132238,100:22D3EE&text=Alekh%20Chaudhary&fontColor=F8FAFC&fontSize=48&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=55&descSize=18&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2700&pause=700&color=00FF88&center=true&vCenter=true&width=750&lines=%3E+initializing+developer+profile...;%3E+building+scalable+mobile+products;%3E+designing+human-centered+interfaces;%3E+engineering+systems+that+actually+ship;%3E+code.+design.+build.+iterate."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+scalable+mobile+applications;Designing+clean+and+usable+interfaces;Turning+ideas+into+real+products;Flutter+%7C+Kotlin+%7C+UI%2FUX+%7C+Backend;Build.+Ship.+Measure.+Improve."
   />
 </p>
 
 <p align="center">
-  <a href="https://chaudharyalekh.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ONLINE-00FF88?style=for-the-badge&labelColor=050505"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alekh-chaudhary/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF88?style=for-the-badge&labelColor=050505&logo=linkedin&logoColor=00FF88"/>
-  </a>
+
+<a href="https://chaudharyalekh.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alekh-chaudhary/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/>
+</a>
+
+<a href="mailto:chaudharyalekh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/>
+</a>
+
 </p>
 
-<br/>
-
-```bash
-alekh@github:~$ whoami
-```
-
-## `> ABOUT_ME`
-
-```yaml
-name: Alekh Chaudhary
-location: Kathmandu, Nepal
-
-role:
-  - Mobile App Developer
-  - UI/UX Designer
-  - Software Engineer
-
-focus:
-  - Mobile Engineering
-  - Product Design
-  - Software Architecture
-  - AI-assisted Development
-
-status: "building, learning, shipping"
-```
-
-I build **real-world digital products** with a strong focus on:
-
-```diff
-+ Clean architecture
-+ Scalable applications
-+ Human-centered UX
-+ Performance
-+ Maintainability
-+ Product thinking
-```
-
-I enjoy working at the intersection of **engineering and design** — turning ideas into products that are technically solid and actually pleasant to use.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ialekhc&label=PROFILE+VIEWS&color=0891B2&style=flat-square"/>
+</p>
 
 ---
 
-```bash
-alekh@github:~$ cat tech_stack.json
+# 👨‍💻 About Me
+
+```bash id="8r8lqv"
+alekh@github:~$ whoami
 ```
 
-## `> TECH_STACK`
+```yaml id="yqr289"
+name: Alekh Chaudhary
+location: Kathmandu, Nepal
+
+roles:
+  - Software Engineer
+  - Mobile App Developer
+  - UI/UX Designer
+
+interests:
+  - Mobile Engineering
+  - Software Architecture
+  - Product Design
+  - AI-assisted Development
+
+current_status: Building. Learning. Shipping.
+```
+
+I enjoy building **real-world software products** that combine solid engineering with thoughtful design.
+
+My work focuses on:
+
+- 📱 Mobile application development
+- 🧠 Product architecture
+- 🎨 UI/UX design
+- ⚙️ Backend systems
+- 🚀 MVP development
+- 📊 Data-driven product improvement
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,nodejs,nestjs,nextjs,react,postgres,mongodb,redis,docker,figma,git,github,vscode&perline=8"/>
 </p>
 
-```json
-{
-  "mobile": [
-    "Flutter",
-    "Dart",
-    "Kotlin",
-    "Jetpack Compose"
-  ],
+<details>
+<summary><b>📱 Mobile Development</b></summary>
 
-  "frontend": [
-    "React",
-    "Next.js"
-  ],
+<br>
 
-  "backend": [
-    "Node.js",
-    "NestJS"
-  ],
-
-  "database": [
-    "PostgreSQL",
-    "MongoDB",
-    "Redis"
-  ],
-
-  "devops": [
-    "Docker",
-    "Nginx",
-    "Git",
-    "GitHub"
-  ],
-
-  "design": [
-    "Figma",
-    "UI/UX Design",
-    "Design Systems"
-  ]
-}
+```text id="fcgopv"
+Flutter
+Dart
+Kotlin
+Jetpack Compose
+Firebase
+REST APIs
+Push Notifications
+Maps & Location
+Payment Integration
 ```
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Database</b></summary>
+
+<br>
+
+```text id="9atqqv"
+Node.js
+NestJS
+PostgreSQL
+MongoDB
+Redis
+Prisma
+REST APIs
+Authentication
+Docker
+```
+
+</details>
+
+<details>
+<summary><b>🎨 UI/UX & Product Design</b></summary>
+
+<br>
+
+```text id="zs1chp"
+Figma
+Wireframing
+Prototyping
+Design Systems
+User Flows
+Mobile UI
+Responsive Interfaces
+Developer Handoff
+```
+
+</details>
 
 ---
 
-```bash
-alekh@github:~$ ./capabilities.sh
+# 🧩 What I Build
+
+```bash id="ykha86"
+alekh@github:~$ ./capabilities
 ```
 
-## `> WHAT_I_BUILD`
+<table>
+<tr>
 
-```text
-[01] Mobile Applications
-     ├── Flutter
-     ├── Kotlin
-     ├── REST API Integration
-     ├── Authentication
-     ├── Payments
-     ├── Push Notifications
-     └── Production Architecture
+<td width="50%">
 
-[02] Product Interfaces
-     ├── UI/UX Design
-     ├── Design Systems
-     ├── Wireframes
-     ├── Prototypes
-     └── Developer-ready Figma
+### 📱 Mobile Applications
 
-[03] Backend Systems
-     ├── REST APIs
-     ├── PostgreSQL
-     ├── MongoDB
-     ├── Redis
-     ├── Docker
-     └── Scalable Services
-
-[04] Product Engineering
-     ├── MVP Development
-     ├── Architecture Planning
-     ├── Product Flows
-     ├── Performance Optimization
-     └── Iterative Delivery
+```text id="3ua1fo"
+Flutter
+Kotlin
+Firebase
+REST APIs
+Payments
+Notifications
+Maps
+Clean Architecture
 ```
+
+</td>
+
+<td width="50%">
+
+### 🎨 Product Design
+
+```text id="e3eah4"
+UI/UX
+Figma
+User Flows
+Design Systems
+Prototypes
+Responsive UI
+Developer Handoff
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚙️ Backend Systems
+
+```text id="x1nmgg"
+Node.js
+NestJS
+PostgreSQL
+MongoDB
+Redis
+Docker
+Nginx
+API Architecture
+```
+
+</td>
+
+<td width="50%">
+
+### 🚀 Product Engineering
+
+```text id="rjx9vh"
+MVP Development
+Architecture
+Product Strategy
+Performance
+Scalability
+Iteration
+Deployment
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-```bash
-alekh@github:~$ ls ./projects
+# 🚀 Featured Projects
+
+<details open>
+<summary><b>🍔 DokoMandu — Food Commerce Platform</b></summary>
+
+<br>
+
+```yaml id="7grmec"
+type: Mobile Commerce Platform
+status: Active Development
+architecture: Clean + Modular
 ```
 
-## `> FEATURED_PROJECTS`
-
-### `01. DOKOMANDU`
-
-```bash
-$ category     food-tech / commerce
-$ architecture clean + scalable mobile architecture
-$ platform     mobile ecosystem
-$ status       building
-```
-
-Building a scalable commerce ecosystem covering:
+### Features
 
 - Customer application
 - Merchant application
-- Delivery workflow
 - Kitchen discovery
+- Product browsing
 - Cart & checkout
+- Delivery scheduling
 - Order tracking
 - Payments
 - Ratings & reviews
+- Notifications
 
-`Flutter` `Riverpod` `Dio` `GoRouter` `Firebase`
+### Technology
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Riverpod-38BDF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dio-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+
+</details>
 
 ---
 
-### `02. RESTAURANT POS`
+<details>
+<summary><b>🍽 Restaurant POS & Management System</b></summary>
 
-```bash
-$ category     SaaS / Restaurant Technology
-$ architecture client + api + database
-$ status       active-development
+<br>
+
+```yaml id="jk4b84"
+type: Restaurant SaaS
+status: Development
+platform: Web + Backend
 ```
 
-Restaurant operations platform designed around:
+### Features
 
 - POS
-- Orders
-- Inventory
+- Order management
 - Kitchen workflow
-- Roles & permissions
-- Sales analytics
+- Inventory
+- Staff roles
 - Receipt printing
+- Sales analytics
+- Multi-user access
 
-`React` `Node.js` `PostgreSQL` `Docker` `Nginx`
+### Technology
 
----
+<p>
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker"/>
+</p>
 
-### `03. BUSINESS SYSTEMS`
-
-```text
-> HRM
-> Candidate Tracking
-> Grievance Management
-> Payroll
-> Billing
-> Internal Operations
-```
-
-I also work on practical business systems where usability, workflow clarity and maintainable architecture matter more than flashy features.
+</details>
 
 ---
 
-```bash
-alekh@github:~$ ./engineering_principles
+<details>
+<summary><b>🏢 Business & Internal Systems</b></summary>
+
+<br>
+
+I also work on internal business tools and management platforms.
+
+```text id="q0f7w9"
+├── HRM
+├── Payroll
+├── Candidate Tracking
+├── Billing
+├── Grievance Management
+├── Recruitment Systems
+└── Internal Operations Tools
 ```
 
-## `> ENGINEERING_MINDSET`
+</details>
 
-```txt
-01 // Users > unnecessary complexity
+---
 
-02 // Architecture should solve problems,
-      not create new ones.
+# 🧠 Engineering Mindset
 
-03 // Good UX is part of engineering.
+```bash id="d3vqmv"
+alekh@github:~$ cat principles.txt
+```
 
-04 // Ship early.
-      Measure.
-      Improve.
+```text id="p7ekbz"
+01. Solve the user's problem first.
 
-05 // Clean code matters,
-      but useful products matter more.
+02. Good UX is part of good engineering.
 
-06 // Build for today.
-      Architect for tomorrow.
+03. Architecture should reduce complexity,
+    not introduce more of it.
+
+04. Build quickly.
+    Test.
+    Learn.
+    Improve.
+
+05. Clean code matters,
+    but useful products matter more.
+
+06. Design for today's requirements
+    without blocking tomorrow's growth.
 ```
 
 ---
 
-```bash
-alekh@github:~$ git status
-```
+# 🔭 Currently Exploring
 
-## `> CURRENT_FOCUS`
+<p align="center">
 
-```diff
-+ Deepening Kotlin & Jetpack Compose
-+ Building production-grade Flutter applications
-+ Exploring AI-assisted software engineering
-+ Improving scalable backend architecture
-+ Learning data-driven product development
-+ Expanding product design systems
-```
+<img src="https://img.shields.io/badge/Kotlin-Advanced-0F172A?style=for-the-badge&logo=kotlin&logoColor=22D3EE"/>
+
+<img src="https://img.shields.io/badge/Jetpack%20Compose-Learning-0F172A?style=for-the-badge&logo=jetpackcompose&logoColor=38BDF8"/>
+
+<img src="https://img.shields.io/badge/AI-Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE"/>
+
+<img src="https://img.shields.io/badge/Data-Science-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+
+</p>
 
 ---
 
-```bash
-alekh@github:~$ cat workflow.txt
-```
+# 📊 GitHub Analytics
 
-## `> HOW_I_WORK`
+<p align="center">
 
-```mermaid
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=ialekhc&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialekhc&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=ialekhc&hide_border=true&background=0F172A&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideNums=CBD5E1&currStreakNum=F8FAFC&sideLabels=94A3B8&dates=64748B"
+/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ialekhc&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&hide_border=true"
+  width="100%"
+/>
+
+</p>
+
+---
+
+# 🔄 My Development Process
+
+```mermaid id="4ty11q"
 flowchart LR
-    A[Idea] --> B[Research]
-    B --> C[UX Flow]
-    C --> D[Design]
-    D --> E[Architecture]
-    E --> F[Development]
-    F --> G[Testing]
-    G --> H[Ship]
-    H --> I[Measure]
-    I --> C
+
+A["💡 Idea"] --> B["🔍 Research"]
+
+B --> C["🧠 UX Flow"]
+
+C --> D["🎨 Design"]
+
+D --> E["🏗 Architecture"]
+
+E --> F["💻 Development"]
+
+F --> G["🧪 Testing"]
+
+G --> H["🚀 Release"]
+
+H --> I["📊 Measure"]
+
+I --> C
 ```
 
 ---
 
-```bash
-alekh@github:~$ github --stats
-```
-
-## `> GITHUB_ACTIVITY`
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=ialekhc&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00FF88&text_color=E6EDF3"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialekhc&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=E6EDF3"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ialekhc&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"
-  />
-</p>
-
----
-
-```bash
-alekh@github:~$ ./connect.sh
-```
-
-## `> CONNECT`
+# 🌐 Let's Connect
 
 <p align="center">
 
 <a href="https://chaudharyalekh.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-chaudharyalekh.vercel.app-00FF88?style=for-the-badge&labelColor=050505&logo=vercel&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-chaudharyalekh.vercel.app-22D3EE?style=for-the-badge&labelColor=0F172A"/>
 </a>
 
+<br><br>
+
 <a href="https://www.linkedin.com/in/alekh-chaudhary/">
-  <img src="https://img.shields.io/badge/LinkedIn-Alekh%20Chaudhary-00FF88?style=for-the-badge&labelColor=050505&logo=linkedin&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/LinkedIn-Alekh%20Chaudhary-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/>
 </a>
 
 <a href="mailto:chaudharyalekh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-chaudharyalekh%40gmail.com-00FF88?style=for-the-badge&labelColor=050505&logo=gmail&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Email-chaudharyalekh%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/>
 </a>
 
 </p>
 
-<br/>
+---
 
-```console
-alekh@github:~$ echo "Build things people actually use."
+<p align="center">
 
-Build things people actually use.
-
-alekh@github:~$ _
+```text id="ppv2xc"
+┌──────────────────────────────────────────────┐
+│                                              │
+│     Build things people actually use.       │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
+
+</p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:081C15,100:050505&height=130&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22D3EE,50:132238,100:0F172A"
     width="100%"
   />
 </p>
